@@ -161,5 +161,4 @@ cython_debug/
 
 # pdm 
 pdm.lock
-.gitignore
-.gitignore
+.pdm-python
